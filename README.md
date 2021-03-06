@@ -1,8 +1,9 @@
-**bold
+**Milestone**
+
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=358409&assignment_repo_type=GroupAssignmentRepo)
 # Solo 114 - {Short snappy Title of your project}
 
-Factors Affecting Bike Sharing Systems
+*Factors Affecting Bike Sharing Systems*
 
 ## Milestones
 
@@ -24,5 +25,5 @@ My name is Ainsley Ward and I am currently in my 3rd year majoring in Earth and 
 
 ## References
 
-Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+1. Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 

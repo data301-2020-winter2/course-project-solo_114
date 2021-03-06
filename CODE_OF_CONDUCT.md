@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+**Contributor Covenant Code of Conduct**
 
 ## Our Pledge
 
@@ -11,25 +11,22 @@ appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behavior that contributes to creating a *positive* environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+1. Using welcoming and inclusive language
+2. Being respectful of differing viewpoints and experiences
+3. Gracefully accepting constructive criticism
+4. Focusing on what is best for the community
+5. Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of *unacceptable* behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+1. The use of sexualized language or imagery and unwelcome sexual attention or advances
+2. Trolling, insulting/derogatory comments, and personal or political attacks
+3. Public or private harassment
+4. Publishing others' private information, such as a physical or electronic address, without explicit permission
+5. Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
 
