@@ -24,3 +24,9 @@ def load_and_process(data):
     return df2
 
 load_and_process(data)
+
+df.describe()
+plt1 = df.plot(kind='scatter', x='casual', y='weathersit')
+plt2 = df.plot(kind='scatter', x='registered', y='weathersit')
+plt3=df['casual'].plot(kind='hist', bins=20, figsize=(12,6), facecolor='pink',edgecolor='black').set_title("Frequency of amount of casual users used the bikesharing system")
+plt4=df['registered'].plot(kind='hist', bins=20, figsize=(12,6), facecolor='green',edgecolor='black').set_title("Frequency of amount of registered users used the bikesharing system")
